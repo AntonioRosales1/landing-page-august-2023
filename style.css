@@ -15,7 +15,6 @@ body {
   font-weight: 400;
   color: #033616;
   background-color: #bbeddd;
-  height: 100vh;
 }
 main {
   display: flex;
